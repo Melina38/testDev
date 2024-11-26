@@ -1,6 +1,6 @@
 <?php
 /*
-A aaa
+A 
 B
 C
 D
